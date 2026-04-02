@@ -14,18 +14,19 @@ The current project is based on analyzing sales performance in the retail sector
 - Category-wise Revenue Distribution
 - Customer Segment Contribution Analysis
 
-**Preview of the Dashboard**
-**Full Dashboard**
-![Dashboard image: images/dashboard.png](images/Dashboard.png)
+## Dashboard Preview
 
-**Revenue Trend and Forecast**
-![Trend image: images/revenue_trend.png](images/revenue_trend.png)
+###  Full Dashboard
+![Dashboard](images/Dashboard.png)
 
-**Category Analysis**
-![Category image: images/category_chart.png](images/category_chart.png)
+###  Revenue Trend & Forecast
+![Trend](images/revenue_trend.png)
 
-**Customer Segment Analysis**
-![Segment image: images/segment_chart.png](images/segment_chart.png)
+###  Category Analysis
+![Category](images/category_chart.png)
+
+###  Customer Segment Analysis
+![Segment](images/segment_chart.png)
 
 **Key Insights**
 - Office Supplies has the highest revenue
