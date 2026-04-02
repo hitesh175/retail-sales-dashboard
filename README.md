@@ -16,7 +16,7 @@ The current project is based on analyzing sales performance in the retail sector
 
 **Preview of the Dashboard**
 **Full Dashboard**
-![Dashboard image: images/dashboard.png](images/dashboard.png)
+![Dashboard image: images/dashboard.png](images/Dashboard.png)
 
 **Revenue Trend and Forecast**
 ![Trend image: images/revenue_trend.png](images/revenue_trend.png)
