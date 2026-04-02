@@ -1,0 +1,1001 @@
+customer_id,customer_name,segment
+1,Customer_1,Home Office
+2,Customer_2,Consumer
+3,Customer_3,Home Office
+4,Customer_4,Home Office
+5,Customer_5,Consumer
+6,Customer_6,Consumer
+7,Customer_7,Home Office
+8,Customer_8,Corporate
+9,Customer_9,Home Office
+10,Customer_10,Home Office
+11,Customer_11,Home Office
+12,Customer_12,Home Office
+13,Customer_13,Consumer
+14,Customer_14,Home Office
+15,Customer_15,Corporate
+16,Customer_16,Consumer
+17,Customer_17,Corporate
+18,Customer_18,Corporate
+19,Customer_19,Corporate
+20,Customer_20,Corporate
+21,Customer_21,Consumer
+22,Customer_22,Consumer
+23,Customer_23,Corporate
+24,Customer_24,Corporate
+25,Customer_25,Consumer
+26,Customer_26,Consumer
+27,Customer_27,Consumer
+28,Customer_28,Home Office
+29,Customer_29,Home Office
+30,Customer_30,Home Office
+31,Customer_31,Corporate
+32,Customer_32,Home Office
+33,Customer_33,Corporate
+34,Customer_34,Corporate
+35,Customer_35,Home Office
+36,Customer_36,Corporate
+37,Customer_37,Home Office
+38,Customer_38,Home Office
+39,Customer_39,Consumer
+40,Customer_40,Home Office
+41,Customer_41,Consumer
+42,Customer_42,Home Office
+43,Customer_43,Home Office
+44,Customer_44,Consumer
+45,Customer_45,Consumer
+46,Customer_46,Home Office
+47,Customer_47,Corporate
+48,Customer_48,Consumer
+49,Customer_49,Corporate
+50,Customer_50,Corporate
+51,Customer_51,Corporate
+52,Customer_52,Consumer
+53,Customer_53,Corporate
+54,Customer_54,Consumer
+55,Customer_55,Corporate
+56,Customer_56,Home Office
+57,Customer_57,Home Office
+58,Customer_58,Consumer
+59,Customer_59,Home Office
+60,Customer_60,Home Office
+61,Customer_61,Corporate
+62,Customer_62,Consumer
+63,Customer_63,Corporate
+64,Customer_64,Corporate
+65,Customer_65,Corporate
+66,Customer_66,Corporate
+67,Customer_67,Corporate
+68,Customer_68,Corporate
+69,Customer_69,Corporate
+70,Customer_70,Consumer
+71,Customer_71,Home Office
+72,Customer_72,Corporate
+73,Customer_73,Corporate
+74,Customer_74,Corporate
+75,Customer_75,Corporate
+76,Customer_76,Corporate
+77,Customer_77,Corporate
+78,Customer_78,Home Office
+79,Customer_79,Home Office
+80,Customer_80,Corporate
+81,Customer_81,Home Office
+82,Customer_82,Consumer
+83,Customer_83,Corporate
+84,Customer_84,Consumer
+85,Customer_85,Consumer
+86,Customer_86,Corporate
+87,Customer_87,Home Office
+88,Customer_88,Consumer
+89,Customer_89,Corporate
+90,Customer_90,Consumer
+91,Customer_91,Consumer
+92,Customer_92,Consumer
+93,Customer_93,Consumer
+94,Customer_94,Home Office
+95,Customer_95,Consumer
+96,Customer_96,Consumer
+97,Customer_97,Consumer
+98,Customer_98,Home Office
+99,Customer_99,Consumer
+100,Customer_100,Consumer
+101,Customer_101,Home Office
+102,Customer_102,Home Office
+103,Customer_103,Home Office
+104,Customer_104,Consumer
+105,Customer_105,Home Office
+106,Customer_106,Home Office
+107,Customer_107,Consumer
+108,Customer_108,Home Office
+109,Customer_109,Consumer
+110,Customer_110,Corporate
+111,Customer_111,Home Office
+112,Customer_112,Corporate
+113,Customer_113,Consumer
+114,Customer_114,Home Office
+115,Customer_115,Consumer
+116,Customer_116,Corporate
+117,Customer_117,Consumer
+118,Customer_118,Home Office
+119,Customer_119,Home Office
+120,Customer_120,Corporate
+121,Customer_121,Consumer
+122,Customer_122,Home Office
+123,Customer_123,Corporate
+124,Customer_124,Home Office
+125,Customer_125,Home Office
+126,Customer_126,Consumer
+127,Customer_127,Home Office
+128,Customer_128,Consumer
+129,Customer_129,Home Office
+130,Customer_130,Corporate
+131,Customer_131,Home Office
+132,Customer_132,Consumer
+133,Customer_133,Consumer
+134,Customer_134,Corporate
+135,Customer_135,Home Office
+136,Customer_136,Home Office
+137,Customer_137,Corporate
+138,Customer_138,Home Office
+139,Customer_139,Home Office
+140,Customer_140,Consumer
+141,Customer_141,Home Office
+142,Customer_142,Home Office
+143,Customer_143,Corporate
+144,Customer_144,Corporate
+145,Customer_145,Consumer
+146,Customer_146,Home Office
+147,Customer_147,Home Office
+148,Customer_148,Home Office
+149,Customer_149,Consumer
+150,Customer_150,Consumer
+151,Customer_151,Corporate
+152,Customer_152,Consumer
+153,Customer_153,Home Office
+154,Customer_154,Home Office
+155,Customer_155,Consumer
+156,Customer_156,Home Office
+157,Customer_157,Home Office
+158,Customer_158,Consumer
+159,Customer_159,Consumer
+160,Customer_160,Home Office
+161,Customer_161,Home Office
+162,Customer_162,Home Office
+163,Customer_163,Corporate
+164,Customer_164,Corporate
+165,Customer_165,Corporate
+166,Customer_166,Consumer
+167,Customer_167,Corporate
+168,Customer_168,Consumer
+169,Customer_169,Consumer
+170,Customer_170,Corporate
+171,Customer_171,Corporate
+172,Customer_172,Corporate
+173,Customer_173,Home Office
+174,Customer_174,Corporate
+175,Customer_175,Home Office
+176,Customer_176,Consumer
+177,Customer_177,Home Office
+178,Customer_178,Corporate
+179,Customer_179,Consumer
+180,Customer_180,Consumer
+181,Customer_181,Consumer
+182,Customer_182,Home Office
+183,Customer_183,Corporate
+184,Customer_184,Consumer
+185,Customer_185,Consumer
+186,Customer_186,Consumer
+187,Customer_187,Home Office
+188,Customer_188,Home Office
+189,Customer_189,Corporate
+190,Customer_190,Home Office
+191,Customer_191,Consumer
+192,Customer_192,Corporate
+193,Customer_193,Consumer
+194,Customer_194,Consumer
+195,Customer_195,Home Office
+196,Customer_196,Corporate
+197,Customer_197,Home Office
+198,Customer_198,Home Office
+199,Customer_199,Corporate
+200,Customer_200,Consumer
+201,Customer_201,Consumer
+202,Customer_202,Corporate
+203,Customer_203,Consumer
+204,Customer_204,Corporate
+205,Customer_205,Corporate
+206,Customer_206,Home Office
+207,Customer_207,Corporate
+208,Customer_208,Home Office
+209,Customer_209,Consumer
+210,Customer_210,Consumer
+211,Customer_211,Consumer
+212,Customer_212,Consumer
+213,Customer_213,Home Office
+214,Customer_214,Consumer
+215,Customer_215,Corporate
+216,Customer_216,Corporate
+217,Customer_217,Corporate
+218,Customer_218,Home Office
+219,Customer_219,Consumer
+220,Customer_220,Consumer
+221,Customer_221,Consumer
+222,Customer_222,Home Office
+223,Customer_223,Corporate
+224,Customer_224,Corporate
+225,Customer_225,Consumer
+226,Customer_226,Corporate
+227,Customer_227,Corporate
+228,Customer_228,Home Office
+229,Customer_229,Home Office
+230,Customer_230,Home Office
+231,Customer_231,Home Office
+232,Customer_232,Consumer
+233,Customer_233,Home Office
+234,Customer_234,Corporate
+235,Customer_235,Consumer
+236,Customer_236,Corporate
+237,Customer_237,Corporate
+238,Customer_238,Corporate
+239,Customer_239,Home Office
+240,Customer_240,Home Office
+241,Customer_241,Consumer
+242,Customer_242,Consumer
+243,Customer_243,Home Office
+244,Customer_244,Corporate
+245,Customer_245,Consumer
+246,Customer_246,Home Office
+247,Customer_247,Home Office
+248,Customer_248,Home Office
+249,Customer_249,Corporate
+250,Customer_250,Home Office
+251,Customer_251,Home Office
+252,Customer_252,Home Office
+253,Customer_253,Home Office
+254,Customer_254,Consumer
+255,Customer_255,Consumer
+256,Customer_256,Home Office
+257,Customer_257,Corporate
+258,Customer_258,Consumer
+259,Customer_259,Home Office
+260,Customer_260,Consumer
+261,Customer_261,Consumer
+262,Customer_262,Corporate
+263,Customer_263,Home Office
+264,Customer_264,Home Office
+265,Customer_265,Corporate
+266,Customer_266,Corporate
+267,Customer_267,Home Office
+268,Customer_268,Home Office
+269,Customer_269,Corporate
+270,Customer_270,Consumer
+271,Customer_271,Consumer
+272,Customer_272,Corporate
+273,Customer_273,Consumer
+274,Customer_274,Corporate
+275,Customer_275,Consumer
+276,Customer_276,Consumer
+277,Customer_277,Home Office
+278,Customer_278,Home Office
+279,Customer_279,Consumer
+280,Customer_280,Consumer
+281,Customer_281,Home Office
+282,Customer_282,Home Office
+283,Customer_283,Home Office
+284,Customer_284,Corporate
+285,Customer_285,Consumer
+286,Customer_286,Home Office
+287,Customer_287,Consumer
+288,Customer_288,Corporate
+289,Customer_289,Corporate
+290,Customer_290,Home Office
+291,Customer_291,Corporate
+292,Customer_292,Consumer
+293,Customer_293,Home Office
+294,Customer_294,Consumer
+295,Customer_295,Consumer
+296,Customer_296,Corporate
+297,Customer_297,Corporate
+298,Customer_298,Corporate
+299,Customer_299,Corporate
+300,Customer_300,Corporate
+301,Customer_301,Home Office
+302,Customer_302,Consumer
+303,Customer_303,Consumer
+304,Customer_304,Consumer
+305,Customer_305,Consumer
+306,Customer_306,Corporate
+307,Customer_307,Consumer
+308,Customer_308,Home Office
+309,Customer_309,Home Office
+310,Customer_310,Consumer
+311,Customer_311,Consumer
+312,Customer_312,Home Office
+313,Customer_313,Home Office
+314,Customer_314,Corporate
+315,Customer_315,Home Office
+316,Customer_316,Corporate
+317,Customer_317,Corporate
+318,Customer_318,Corporate
+319,Customer_319,Corporate
+320,Customer_320,Corporate
+321,Customer_321,Consumer
+322,Customer_322,Home Office
+323,Customer_323,Corporate
+324,Customer_324,Home Office
+325,Customer_325,Home Office
+326,Customer_326,Corporate
+327,Customer_327,Consumer
+328,Customer_328,Corporate
+329,Customer_329,Consumer
+330,Customer_330,Home Office
+331,Customer_331,Consumer
+332,Customer_332,Consumer
+333,Customer_333,Consumer
+334,Customer_334,Home Office
+335,Customer_335,Home Office
+336,Customer_336,Consumer
+337,Customer_337,Consumer
+338,Customer_338,Corporate
+339,Customer_339,Consumer
+340,Customer_340,Corporate
+341,Customer_341,Consumer
+342,Customer_342,Corporate
+343,Customer_343,Home Office
+344,Customer_344,Consumer
+345,Customer_345,Consumer
+346,Customer_346,Consumer
+347,Customer_347,Consumer
+348,Customer_348,Corporate
+349,Customer_349,Consumer
+350,Customer_350,Home Office
+351,Customer_351,Home Office
+352,Customer_352,Consumer
+353,Customer_353,Home Office
+354,Customer_354,Consumer
+355,Customer_355,Consumer
+356,Customer_356,Home Office
+357,Customer_357,Consumer
+358,Customer_358,Home Office
+359,Customer_359,Corporate
+360,Customer_360,Consumer
+361,Customer_361,Corporate
+362,Customer_362,Home Office
+363,Customer_363,Corporate
+364,Customer_364,Corporate
+365,Customer_365,Home Office
+366,Customer_366,Corporate
+367,Customer_367,Corporate
+368,Customer_368,Home Office
+369,Customer_369,Corporate
+370,Customer_370,Home Office
+371,Customer_371,Corporate
+372,Customer_372,Home Office
+373,Customer_373,Home Office
+374,Customer_374,Corporate
+375,Customer_375,Corporate
+376,Customer_376,Corporate
+377,Customer_377,Consumer
+378,Customer_378,Consumer
+379,Customer_379,Consumer
+380,Customer_380,Home Office
+381,Customer_381,Corporate
+382,Customer_382,Home Office
+383,Customer_383,Consumer
+384,Customer_384,Corporate
+385,Customer_385,Home Office
+386,Customer_386,Corporate
+387,Customer_387,Home Office
+388,Customer_388,Corporate
+389,Customer_389,Consumer
+390,Customer_390,Consumer
+391,Customer_391,Corporate
+392,Customer_392,Home Office
+393,Customer_393,Consumer
+394,Customer_394,Consumer
+395,Customer_395,Consumer
+396,Customer_396,Corporate
+397,Customer_397,Corporate
+398,Customer_398,Home Office
+399,Customer_399,Home Office
+400,Customer_400,Home Office
+401,Customer_401,Corporate
+402,Customer_402,Corporate
+403,Customer_403,Home Office
+404,Customer_404,Home Office
+405,Customer_405,Corporate
+406,Customer_406,Home Office
+407,Customer_407,Consumer
+408,Customer_408,Corporate
+409,Customer_409,Home Office
+410,Customer_410,Corporate
+411,Customer_411,Consumer
+412,Customer_412,Corporate
+413,Customer_413,Corporate
+414,Customer_414,Corporate
+415,Customer_415,Corporate
+416,Customer_416,Consumer
+417,Customer_417,Corporate
+418,Customer_418,Corporate
+419,Customer_419,Home Office
+420,Customer_420,Corporate
+421,Customer_421,Home Office
+422,Customer_422,Consumer
+423,Customer_423,Consumer
+424,Customer_424,Consumer
+425,Customer_425,Consumer
+426,Customer_426,Home Office
+427,Customer_427,Corporate
+428,Customer_428,Consumer
+429,Customer_429,Corporate
+430,Customer_430,Home Office
+431,Customer_431,Home Office
+432,Customer_432,Home Office
+433,Customer_433,Consumer
+434,Customer_434,Corporate
+435,Customer_435,Corporate
+436,Customer_436,Corporate
+437,Customer_437,Home Office
+438,Customer_438,Consumer
+439,Customer_439,Home Office
+440,Customer_440,Home Office
+441,Customer_441,Corporate
+442,Customer_442,Home Office
+443,Customer_443,Corporate
+444,Customer_444,Consumer
+445,Customer_445,Corporate
+446,Customer_446,Consumer
+447,Customer_447,Corporate
+448,Customer_448,Home Office
+449,Customer_449,Home Office
+450,Customer_450,Consumer
+451,Customer_451,Consumer
+452,Customer_452,Consumer
+453,Customer_453,Corporate
+454,Customer_454,Corporate
+455,Customer_455,Consumer
+456,Customer_456,Home Office
+457,Customer_457,Corporate
+458,Customer_458,Corporate
+459,Customer_459,Corporate
+460,Customer_460,Consumer
+461,Customer_461,Consumer
+462,Customer_462,Consumer
+463,Customer_463,Consumer
+464,Customer_464,Consumer
+465,Customer_465,Home Office
+466,Customer_466,Home Office
+467,Customer_467,Consumer
+468,Customer_468,Corporate
+469,Customer_469,Consumer
+470,Customer_470,Home Office
+471,Customer_471,Home Office
+472,Customer_472,Corporate
+473,Customer_473,Home Office
+474,Customer_474,Consumer
+475,Customer_475,Corporate
+476,Customer_476,Consumer
+477,Customer_477,Consumer
+478,Customer_478,Corporate
+479,Customer_479,Consumer
+480,Customer_480,Home Office
+481,Customer_481,Consumer
+482,Customer_482,Corporate
+483,Customer_483,Corporate
+484,Customer_484,Corporate
+485,Customer_485,Consumer
+486,Customer_486,Corporate
+487,Customer_487,Corporate
+488,Customer_488,Consumer
+489,Customer_489,Home Office
+490,Customer_490,Consumer
+491,Customer_491,Corporate
+492,Customer_492,Corporate
+493,Customer_493,Consumer
+494,Customer_494,Home Office
+495,Customer_495,Corporate
+496,Customer_496,Corporate
+497,Customer_497,Corporate
+498,Customer_498,Consumer
+499,Customer_499,Corporate
+500,Customer_500,Home Office
+501,Customer_501,Corporate
+502,Customer_502,Corporate
+503,Customer_503,Home Office
+504,Customer_504,Corporate
+505,Customer_505,Consumer
+506,Customer_506,Consumer
+507,Customer_507,Consumer
+508,Customer_508,Home Office
+509,Customer_509,Corporate
+510,Customer_510,Consumer
+511,Customer_511,Home Office
+512,Customer_512,Corporate
+513,Customer_513,Home Office
+514,Customer_514,Consumer
+515,Customer_515,Consumer
+516,Customer_516,Consumer
+517,Customer_517,Home Office
+518,Customer_518,Home Office
+519,Customer_519,Consumer
+520,Customer_520,Home Office
+521,Customer_521,Consumer
+522,Customer_522,Consumer
+523,Customer_523,Corporate
+524,Customer_524,Home Office
+525,Customer_525,Consumer
+526,Customer_526,Consumer
+527,Customer_527,Home Office
+528,Customer_528,Corporate
+529,Customer_529,Corporate
+530,Customer_530,Consumer
+531,Customer_531,Home Office
+532,Customer_532,Corporate
+533,Customer_533,Home Office
+534,Customer_534,Home Office
+535,Customer_535,Consumer
+536,Customer_536,Corporate
+537,Customer_537,Consumer
+538,Customer_538,Corporate
+539,Customer_539,Corporate
+540,Customer_540,Corporate
+541,Customer_541,Corporate
+542,Customer_542,Corporate
+543,Customer_543,Home Office
+544,Customer_544,Consumer
+545,Customer_545,Home Office
+546,Customer_546,Corporate
+547,Customer_547,Consumer
+548,Customer_548,Corporate
+549,Customer_549,Consumer
+550,Customer_550,Home Office
+551,Customer_551,Consumer
+552,Customer_552,Consumer
+553,Customer_553,Consumer
+554,Customer_554,Consumer
+555,Customer_555,Consumer
+556,Customer_556,Corporate
+557,Customer_557,Consumer
+558,Customer_558,Consumer
+559,Customer_559,Home Office
+560,Customer_560,Consumer
+561,Customer_561,Home Office
+562,Customer_562,Corporate
+563,Customer_563,Consumer
+564,Customer_564,Home Office
+565,Customer_565,Home Office
+566,Customer_566,Corporate
+567,Customer_567,Consumer
+568,Customer_568,Consumer
+569,Customer_569,Home Office
+570,Customer_570,Consumer
+571,Customer_571,Home Office
+572,Customer_572,Consumer
+573,Customer_573,Home Office
+574,Customer_574,Consumer
+575,Customer_575,Corporate
+576,Customer_576,Consumer
+577,Customer_577,Consumer
+578,Customer_578,Corporate
+579,Customer_579,Consumer
+580,Customer_580,Corporate
+581,Customer_581,Consumer
+582,Customer_582,Home Office
+583,Customer_583,Home Office
+584,Customer_584,Consumer
+585,Customer_585,Consumer
+586,Customer_586,Consumer
+587,Customer_587,Home Office
+588,Customer_588,Consumer
+589,Customer_589,Home Office
+590,Customer_590,Corporate
+591,Customer_591,Home Office
+592,Customer_592,Home Office
+593,Customer_593,Corporate
+594,Customer_594,Home Office
+595,Customer_595,Consumer
+596,Customer_596,Consumer
+597,Customer_597,Home Office
+598,Customer_598,Consumer
+599,Customer_599,Home Office
+600,Customer_600,Consumer
+601,Customer_601,Consumer
+602,Customer_602,Home Office
+603,Customer_603,Consumer
+604,Customer_604,Home Office
+605,Customer_605,Consumer
+606,Customer_606,Consumer
+607,Customer_607,Corporate
+608,Customer_608,Corporate
+609,Customer_609,Home Office
+610,Customer_610,Corporate
+611,Customer_611,Home Office
+612,Customer_612,Corporate
+613,Customer_613,Consumer
+614,Customer_614,Home Office
+615,Customer_615,Home Office
+616,Customer_616,Consumer
+617,Customer_617,Home Office
+618,Customer_618,Home Office
+619,Customer_619,Corporate
+620,Customer_620,Home Office
+621,Customer_621,Consumer
+622,Customer_622,Corporate
+623,Customer_623,Corporate
+624,Customer_624,Consumer
+625,Customer_625,Consumer
+626,Customer_626,Corporate
+627,Customer_627,Home Office
+628,Customer_628,Corporate
+629,Customer_629,Consumer
+630,Customer_630,Corporate
+631,Customer_631,Consumer
+632,Customer_632,Corporate
+633,Customer_633,Home Office
+634,Customer_634,Corporate
+635,Customer_635,Corporate
+636,Customer_636,Consumer
+637,Customer_637,Consumer
+638,Customer_638,Consumer
+639,Customer_639,Corporate
+640,Customer_640,Home Office
+641,Customer_641,Consumer
+642,Customer_642,Consumer
+643,Customer_643,Corporate
+644,Customer_644,Consumer
+645,Customer_645,Home Office
+646,Customer_646,Home Office
+647,Customer_647,Consumer
+648,Customer_648,Consumer
+649,Customer_649,Corporate
+650,Customer_650,Home Office
+651,Customer_651,Home Office
+652,Customer_652,Consumer
+653,Customer_653,Corporate
+654,Customer_654,Home Office
+655,Customer_655,Home Office
+656,Customer_656,Corporate
+657,Customer_657,Corporate
+658,Customer_658,Home Office
+659,Customer_659,Home Office
+660,Customer_660,Corporate
+661,Customer_661,Home Office
+662,Customer_662,Consumer
+663,Customer_663,Consumer
+664,Customer_664,Corporate
+665,Customer_665,Corporate
+666,Customer_666,Corporate
+667,Customer_667,Consumer
+668,Customer_668,Home Office
+669,Customer_669,Consumer
+670,Customer_670,Home Office
+671,Customer_671,Consumer
+672,Customer_672,Home Office
+673,Customer_673,Consumer
+674,Customer_674,Corporate
+675,Customer_675,Consumer
+676,Customer_676,Home Office
+677,Customer_677,Consumer
+678,Customer_678,Consumer
+679,Customer_679,Consumer
+680,Customer_680,Corporate
+681,Customer_681,Consumer
+682,Customer_682,Corporate
+683,Customer_683,Corporate
+684,Customer_684,Consumer
+685,Customer_685,Consumer
+686,Customer_686,Consumer
+687,Customer_687,Home Office
+688,Customer_688,Consumer
+689,Customer_689,Corporate
+690,Customer_690,Consumer
+691,Customer_691,Home Office
+692,Customer_692,Consumer
+693,Customer_693,Home Office
+694,Customer_694,Home Office
+695,Customer_695,Consumer
+696,Customer_696,Corporate
+697,Customer_697,Home Office
+698,Customer_698,Consumer
+699,Customer_699,Consumer
+700,Customer_700,Corporate
+701,Customer_701,Home Office
+702,Customer_702,Home Office
+703,Customer_703,Consumer
+704,Customer_704,Consumer
+705,Customer_705,Corporate
+706,Customer_706,Corporate
+707,Customer_707,Home Office
+708,Customer_708,Home Office
+709,Customer_709,Consumer
+710,Customer_710,Home Office
+711,Customer_711,Corporate
+712,Customer_712,Corporate
+713,Customer_713,Consumer
+714,Customer_714,Corporate
+715,Customer_715,Corporate
+716,Customer_716,Corporate
+717,Customer_717,Corporate
+718,Customer_718,Consumer
+719,Customer_719,Consumer
+720,Customer_720,Home Office
+721,Customer_721,Corporate
+722,Customer_722,Home Office
+723,Customer_723,Consumer
+724,Customer_724,Consumer
+725,Customer_725,Consumer
+726,Customer_726,Consumer
+727,Customer_727,Consumer
+728,Customer_728,Consumer
+729,Customer_729,Consumer
+730,Customer_730,Corporate
+731,Customer_731,Home Office
+732,Customer_732,Consumer
+733,Customer_733,Corporate
+734,Customer_734,Corporate
+735,Customer_735,Home Office
+736,Customer_736,Consumer
+737,Customer_737,Home Office
+738,Customer_738,Consumer
+739,Customer_739,Corporate
+740,Customer_740,Corporate
+741,Customer_741,Corporate
+742,Customer_742,Corporate
+743,Customer_743,Home Office
+744,Customer_744,Consumer
+745,Customer_745,Consumer
+746,Customer_746,Home Office
+747,Customer_747,Consumer
+748,Customer_748,Corporate
+749,Customer_749,Consumer
+750,Customer_750,Corporate
+751,Customer_751,Home Office
+752,Customer_752,Consumer
+753,Customer_753,Home Office
+754,Customer_754,Consumer
+755,Customer_755,Corporate
+756,Customer_756,Home Office
+757,Customer_757,Consumer
+758,Customer_758,Corporate
+759,Customer_759,Home Office
+760,Customer_760,Home Office
+761,Customer_761,Consumer
+762,Customer_762,Consumer
+763,Customer_763,Consumer
+764,Customer_764,Corporate
+765,Customer_765,Consumer
+766,Customer_766,Home Office
+767,Customer_767,Home Office
+768,Customer_768,Consumer
+769,Customer_769,Consumer
+770,Customer_770,Home Office
+771,Customer_771,Corporate
+772,Customer_772,Consumer
+773,Customer_773,Consumer
+774,Customer_774,Home Office
+775,Customer_775,Consumer
+776,Customer_776,Corporate
+777,Customer_777,Home Office
+778,Customer_778,Consumer
+779,Customer_779,Home Office
+780,Customer_780,Consumer
+781,Customer_781,Consumer
+782,Customer_782,Consumer
+783,Customer_783,Corporate
+784,Customer_784,Corporate
+785,Customer_785,Home Office
+786,Customer_786,Consumer
+787,Customer_787,Consumer
+788,Customer_788,Corporate
+789,Customer_789,Consumer
+790,Customer_790,Corporate
+791,Customer_791,Consumer
+792,Customer_792,Home Office
+793,Customer_793,Consumer
+794,Customer_794,Consumer
+795,Customer_795,Corporate
+796,Customer_796,Consumer
+797,Customer_797,Consumer
+798,Customer_798,Corporate
+799,Customer_799,Home Office
+800,Customer_800,Home Office
+801,Customer_801,Corporate
+802,Customer_802,Corporate
+803,Customer_803,Corporate
+804,Customer_804,Corporate
+805,Customer_805,Corporate
+806,Customer_806,Home Office
+807,Customer_807,Home Office
+808,Customer_808,Corporate
+809,Customer_809,Consumer
+810,Customer_810,Corporate
+811,Customer_811,Consumer
+812,Customer_812,Corporate
+813,Customer_813,Corporate
+814,Customer_814,Home Office
+815,Customer_815,Consumer
+816,Customer_816,Consumer
+817,Customer_817,Home Office
+818,Customer_818,Home Office
+819,Customer_819,Home Office
+820,Customer_820,Home Office
+821,Customer_821,Consumer
+822,Customer_822,Consumer
+823,Customer_823,Corporate
+824,Customer_824,Corporate
+825,Customer_825,Home Office
+826,Customer_826,Home Office
+827,Customer_827,Home Office
+828,Customer_828,Corporate
+829,Customer_829,Corporate
+830,Customer_830,Corporate
+831,Customer_831,Corporate
+832,Customer_832,Corporate
+833,Customer_833,Corporate
+834,Customer_834,Corporate
+835,Customer_835,Home Office
+836,Customer_836,Home Office
+837,Customer_837,Home Office
+838,Customer_838,Home Office
+839,Customer_839,Corporate
+840,Customer_840,Consumer
+841,Customer_841,Corporate
+842,Customer_842,Consumer
+843,Customer_843,Home Office
+844,Customer_844,Corporate
+845,Customer_845,Home Office
+846,Customer_846,Corporate
+847,Customer_847,Home Office
+848,Customer_848,Consumer
+849,Customer_849,Consumer
+850,Customer_850,Consumer
+851,Customer_851,Corporate
+852,Customer_852,Consumer
+853,Customer_853,Corporate
+854,Customer_854,Consumer
+855,Customer_855,Consumer
+856,Customer_856,Corporate
+857,Customer_857,Corporate
+858,Customer_858,Consumer
+859,Customer_859,Corporate
+860,Customer_860,Consumer
+861,Customer_861,Corporate
+862,Customer_862,Home Office
+863,Customer_863,Home Office
+864,Customer_864,Home Office
+865,Customer_865,Home Office
+866,Customer_866,Home Office
+867,Customer_867,Consumer
+868,Customer_868,Home Office
+869,Customer_869,Home Office
+870,Customer_870,Home Office
+871,Customer_871,Home Office
+872,Customer_872,Corporate
+873,Customer_873,Consumer
+874,Customer_874,Home Office
+875,Customer_875,Home Office
+876,Customer_876,Home Office
+877,Customer_877,Consumer
+878,Customer_878,Corporate
+879,Customer_879,Consumer
+880,Customer_880,Corporate
+881,Customer_881,Home Office
+882,Customer_882,Home Office
+883,Customer_883,Consumer
+884,Customer_884,Consumer
+885,Customer_885,Corporate
+886,Customer_886,Corporate
+887,Customer_887,Consumer
+888,Customer_888,Corporate
+889,Customer_889,Consumer
+890,Customer_890,Corporate
+891,Customer_891,Consumer
+892,Customer_892,Consumer
+893,Customer_893,Consumer
+894,Customer_894,Corporate
+895,Customer_895,Corporate
+896,Customer_896,Corporate
+897,Customer_897,Consumer
+898,Customer_898,Corporate
+899,Customer_899,Corporate
+900,Customer_900,Consumer
+901,Customer_901,Home Office
+902,Customer_902,Consumer
+903,Customer_903,Corporate
+904,Customer_904,Consumer
+905,Customer_905,Home Office
+906,Customer_906,Consumer
+907,Customer_907,Corporate
+908,Customer_908,Home Office
+909,Customer_909,Corporate
+910,Customer_910,Home Office
+911,Customer_911,Home Office
+912,Customer_912,Consumer
+913,Customer_913,Consumer
+914,Customer_914,Corporate
+915,Customer_915,Consumer
+916,Customer_916,Consumer
+917,Customer_917,Home Office
+918,Customer_918,Consumer
+919,Customer_919,Home Office
+920,Customer_920,Home Office
+921,Customer_921,Home Office
+922,Customer_922,Corporate
+923,Customer_923,Corporate
+924,Customer_924,Corporate
+925,Customer_925,Home Office
+926,Customer_926,Corporate
+927,Customer_927,Corporate
+928,Customer_928,Consumer
+929,Customer_929,Corporate
+930,Customer_930,Corporate
+931,Customer_931,Home Office
+932,Customer_932,Home Office
+933,Customer_933,Home Office
+934,Customer_934,Home Office
+935,Customer_935,Home Office
+936,Customer_936,Home Office
+937,Customer_937,Corporate
+938,Customer_938,Home Office
+939,Customer_939,Home Office
+940,Customer_940,Consumer
+941,Customer_941,Corporate
+942,Customer_942,Corporate
+943,Customer_943,Corporate
+944,Customer_944,Home Office
+945,Customer_945,Home Office
+946,Customer_946,Home Office
+947,Customer_947,Consumer
+948,Customer_948,Home Office
+949,Customer_949,Consumer
+950,Customer_950,Corporate
+951,Customer_951,Home Office
+952,Customer_952,Consumer
+953,Customer_953,Consumer
+954,Customer_954,Home Office
+955,Customer_955,Corporate
+956,Customer_956,Corporate
+957,Customer_957,Corporate
+958,Customer_958,Consumer
+959,Customer_959,Consumer
+960,Customer_960,Consumer
+961,Customer_961,Consumer
+962,Customer_962,Corporate
+963,Customer_963,Home Office
+964,Customer_964,Consumer
+965,Customer_965,Consumer
+966,Customer_966,Corporate
+967,Customer_967,Home Office
+968,Customer_968,Home Office
+969,Customer_969,Corporate
+970,Customer_970,Corporate
+971,Customer_971,Home Office
+972,Customer_972,Consumer
+973,Customer_973,Home Office
+974,Customer_974,Corporate
+975,Customer_975,Consumer
+976,Customer_976,Consumer
+977,Customer_977,Corporate
+978,Customer_978,Corporate
+979,Customer_979,Corporate
+980,Customer_980,Home Office
+981,Customer_981,Home Office
+982,Customer_982,Consumer
+983,Customer_983,Corporate
+984,Customer_984,Consumer
+985,Customer_985,Consumer
+986,Customer_986,Consumer
+987,Customer_987,Consumer
+988,Customer_988,Corporate
+989,Customer_989,Consumer
+990,Customer_990,Corporate
+991,Customer_991,Corporate
+992,Customer_992,Home Office
+993,Customer_993,Corporate
+994,Customer_994,Home Office
+995,Customer_995,Corporate
+996,Customer_996,Corporate
+997,Customer_997,Corporate
+998,Customer_998,Home Office
+999,Customer_999,Home Office
+1000,Customer_1000,Consumer
