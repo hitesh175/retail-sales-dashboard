@@ -1,43 +1,41 @@
-**Retail Business Performance Dashboard: An Academic Overview**
+# Retail Sales Analytics Dashboard
 
-**Overview**
-The current project is based on analyzing sales performance in the retail sector through SQL and Power BI, which provides information on revenue, categories, and customer segments. The project also provides sales projections for future business.
+An academic business-intelligence project combining PostgreSQL queries and a Power BI report to explore retail sales performance.
 
-**Tools and Technologies**
-- SQL (PostgreSQL)
-- Power BI
-- DAX (Data Analysis Expressions)
+![Retail sales dashboard](Images/Dashboard.png)
 
-**Key Features**
-- KPI Metrics: Revenue, Profit, Orders, Profit Margin
-- Monthly Revenue Trend with Forecasting
-- Category-wise Revenue Distribution
-- Customer Segment Contribution Analysis
+## Analysis areas
 
-## Dashboard Preview
+- Revenue, profit, order count, and profit margin.
+- Monthly revenue trends and forecasting views.
+- Revenue by product category.
+- Customer-segment contributions.
 
-###  Full Dashboard
-![Dashboard](Images/Dashboard.png)
+## Repository guide
 
-###  Revenue Trend & Forecast
-![Trend](Images/revenue_trend.png)
+| File or folder | Purpose |
+| --- | --- |
+| [Retail-Sales-Dashboard.pbix](Retail-Sales-Dashboard.pbix) | Power BI report |
+| [Sales_project.sql](Sales_project.sql) | Table definitions and example analysis queries |
+| [Data](Data/) | Customers, products, regions, and sales CSV files |
+| [Images](Images/) | Dashboard and individual chart previews |
 
-###  Category Analysis
-![Category](Images/category_chart.png)
+## Explore the report
 
-###  Customer Segment Analysis
-![Segment](Images/segment_chart.png)
+1. Download the repository and open the PBIX file in Power BI Desktop.
+2. Inspect its data-source settings and update local paths or database connections as needed.
+3. Refresh the report and review its relationships and measures before interpreting results.
 
-**Key Insights**
-- Office Supplies has the highest revenue
-- Sales are high towards the end of the financial year
-- Forecasting has shown short-term fluctuations, then stability
+To reproduce the SQL analysis, create a practice PostgreSQL database, run the table definitions in `Sales_project.sql`, and import the four CSVs into their matching tables. The script defines tables and queries; it does not include CSV-loading commands. Load the data before running the analysis queries.
 
-**Dataset**
-- Customers
-- Products
-- Sales
-- Regions
+## Interpretation
 
-**Author**
-Hitesh K R
+The report supports descriptive analysis of the supplied dataset. Forecasts depend on the historical series and report settings; they are not validated business commitments. Refreshing or changing filters can change the displayed totals.
+
+### Additional previews
+
+![Revenue trend](Images/revenue_trend.png)
+
+![Category analysis](Images/category_chart.png)
+
+![Customer segments](Images/segment_chart.png)
